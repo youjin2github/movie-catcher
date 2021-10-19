@@ -1,0 +1,8 @@
+"""
+import numpy as np
+x = np.arange(10)
+
+num_list = [num*2 for num in range(1,10);num_list
+word = 'movieeecatcheerr'
+num_set = {a for a in word};num_set
+"""
